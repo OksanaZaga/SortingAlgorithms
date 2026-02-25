@@ -27,6 +27,7 @@ console.log("Original array:", nums);
 
 bubbleSort(nums); // Call the function with the array
 console.log("Sorted array:", nums); // Log the sorted array
+
 //bubbleSort(nums); // [2, 3, 3, 4, 4, 4, 5, 23, 32, 32, 34, 34, 35, 43, 67,
                   // 75, 232, 232, 453, 546, 4342]
  
